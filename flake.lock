@@ -40,13 +40,13 @@
         "rev": "4f288f4e241e3cc711a10fdcf4078fd4ddfab7c2",
         "revCount": 81,
         "type": "git",
-        "url": "git://forge.soutade.fr/soutade/libgourou.git"
+        "url": "https://forge.soutade.fr/soutade/libgourou.git"
       },
       "original": {
         "ref": "master",
         "rev": "4f288f4e241e3cc711a10fdcf4078fd4ddfab7c2",
         "type": "git",
-        "url": "git://forge.soutade.fr/soutade/libgourou.git"
+        "url": "https://forge.soutade.fr/soutade/libgourou.git"
       }
     },
     "nixpkgs": {
@@ -101,11 +101,11 @@
         "rev": "6060d123441a06df699eb275ae5ffdd50409b8f3",
         "revCount": 33,
         "type": "git",
-        "url": "git://forge.soutade.fr/soutade/updfparser.git"
+        "url": "https://forge.soutade.fr/soutade/updfparser.git"
       },
       "original": {
         "type": "git",
-        "url": "git://forge.soutade.fr/soutade/updfparser.git"
+        "url": "https://forge.soutade.fr/soutade/updfparser.git"
       }
     }
   },

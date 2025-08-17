@@ -3,11 +3,11 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     gourou-src = {
-      url = "git://forge.soutade.fr/soutade/libgourou.git?ref=master&rev=4f288f4e241e3cc711a10fdcf4078fd4ddfab7c2";
+      url = "git+https://forge.soutade.fr/soutade/libgourou.git?ref=master&rev=4f288f4e241e3cc711a10fdcf4078fd4ddfab7c2";
       flake = false;
     };
     updfparser-src = {
-      url = "git://forge.soutade.fr/soutade/updfparser.git";
+      url = "git+https://forge.soutade.fr/soutade/updfparser.git";
       flake = false;
     };
     base64-src = {
